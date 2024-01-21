@@ -1,0 +1,16 @@
+{
+  "name": "relay-token-quickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/communication-identity": "^1.3.0",
+    "@azure/communication-network-traversal": "^1.1.0-beta.1"
+  }
+}
