@@ -1,0 +1,2 @@
+https://github.com/Azure-Samples/AzureSpeechReactSample/tree/main -> react sample speech-to-text
+https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/samples/js/browser/avatar -> avatar documentation
